@@ -1,0 +1,16 @@
+.Todoapp{
+    width: max-content;
+    margin : auto; 
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    opacity: 0.6;
+    margin-left: 300px ;
+  }
+  .contain{
+    max-height: 100px;
+    scroll-behavior: smooth;
+  }
+  .contain::-webkit-scrollbar {
+    width: 1em;
+  }
